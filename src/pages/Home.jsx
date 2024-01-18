@@ -30,7 +30,7 @@ useEffect(() => {
   
   setTimeout(()=>{
 
-setshowspin(false)
+  setshowspin(false)
 
   },2000);
 
